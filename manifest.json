@@ -1,0 +1,12 @@
+{
+  "name": "Demobile",
+  "version": "0.0.1",
+  "description": "Redirect browser to non-mobile version",
+  "manifest_version": 2,
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "permissions": [""],
+  "page_action": {}
+}
