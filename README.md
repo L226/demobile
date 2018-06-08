@@ -1,5 +1,4 @@
 # demobile
 redirect \*.m.\* | \*.mobile.\* URLs to desktop versions
 
-When clicking a mobile website hyperlink, chrome does not redirect to the desktop version. 
-This extension rectifies that.
+Do you get annoyed by clicking links that land you on a mobile site? Redirect to the standard site by default!
