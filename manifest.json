@@ -7,5 +7,10 @@
     "scripts": ["background.js"],
     "persistent": false
   },
+  "icons":{
+		"16": "favicon-16x16.png",
+		"48": "android-icon-48x48.png",
+		"120": "apple-icon-120x120.png"
+  },
   "permissions": ["webNavigation", "tabs"]
 }
