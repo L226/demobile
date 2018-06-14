@@ -1,6 +1,6 @@
 {
   "name": "Demobile",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Redirect browser to non-mobile version",
   "manifest_version": 2,
   "background": {
