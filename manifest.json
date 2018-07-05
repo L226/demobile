@@ -1,6 +1,6 @@
 {
   "name": "Demobile",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Redirect browser to non-mobile version",
   "manifest_version": 2,
   "background": {
@@ -12,5 +12,8 @@
 		"48": "android-icon-48x48.png",
 		"120": "apple-icon-120x120.png"
   },
-  "permissions": ["webNavigation", "tabs"]
+  "permissions": [
+    "webNavigation",
+    "tabs"
+  ]
 }
